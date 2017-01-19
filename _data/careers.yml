@@ -1,56 +1,98 @@
 # careers section data
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: 深圳市鲁斯菲尔科技有限公司
+    i18n: lusifer
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: 十年技术生涯，现在为梦想起航。
+    i18n: lusifer_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: 2017年1月
+    i18n: lusifer_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
+    detail: CTO
+    i18n: lusifer_job
+  icon: fa-refresh
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: 凯信壹立科技（深圳）有限公司
+    i18n: kxyl
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: 从零开始技术部。包括团队创建、解决方案、技术实现、系统架构。从无到有，从0到1。
+    i18n: kxyl_des
   date:
-    detail: Jun. 2015
-    i18n: netease_date
+    detail: 2015年3月
+    i18n: kxyl_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
+    detail: 技术总监
+    i18n: kxyl_job
+  icon: fa-users
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: 北京千锋互联科技有限公司深圳分公司
+    i18n: qf
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detail: 休息期，培养了150+名优秀的Android工程师
+    i18n: qf_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
+    detail: 2014年6月
+    i18n: qf_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
+    detail: 高级Android讲师
+    i18n: qf_job
+  icon: fa-android
 
 - name:
-    detail: Graduation
-    i18n: college
+    detail: 深圳华宏联创科技有限公司
+    i18n: hhlc
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
-    i18n: college_des
+    detail: 接触物联网，开始大数据、高并发、高可用系统的研发工作
+    i18n: hhlc_des
   date:
-    detail: Jul. 2013
-    i18n: college_date
+    detail: 2012年3月
+    i18n: hhlc_date
   job:
-    detail: Student
-    i18n: college_job
-  icon: fa-book
+    detail: 技术总监
+    i18n: hhlc_job
+  icon: fa-car
+  
+- name:
+    detail: 广电运通金融电子股份有限公司
+    i18n: gdyt
+  desc:
+    detail: 负责深圳平安银行万事达国际卡对账系统的开发和维护工作
+    i18n: gdyt_des
+  date:
+    detail: 2011年3月
+    i18n: gdyt_date
+  job:
+    detail: 高级研发工程师
+    i18n: gdyt_job
+  icon: fa-bank
+  
+- name:
+    detail: 广州软通动力信息技术有限公司
+    i18n: rtdl
+  desc:
+    detail: 在软通动力期间，为某人寿保险公司开发核保照会及理赔系统
+    i18n: rtdl_des
+  date:
+    detail: 2008年4月
+    i18n: rtdl_date
+  job:
+    detail: 高级研发工程师
+    i18n: rtdl_job
+  icon: fa-medkit
+  
+- name:
+    detail: 更早的经历...
+    i18n: lang
+  desc:
+    detail: IT 生涯的起点...
+    i18n: lang_des
+  date:
+    detail: 2001年2月
+    i18n: lang_date
+  job:
+    detail: Hacker
+    i18n: lang_job
+  icon: fa-play-circle
