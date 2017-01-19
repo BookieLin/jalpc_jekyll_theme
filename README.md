@@ -1,14 +1,11 @@
-# <a name="jalpc"></a>Jalpc. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/Jack614/jalpc_jekyll_theme)
+# <a name="jalpc"></a>Jalpc. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/topsale/jalpc_jekyll_theme)
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
-<http://www.jack003.com>
+<https://topsale.github.io>
 
-![Blog](readme_files/blog.gif)
-
-* [Ad](#ad)
 * [Getting Started](#getting-started)
     * [Fork, then clone](#fork-then-clone)
     * [Modify _config.yml](#modify-configyml)
@@ -41,10 +38,6 @@ The landing page of the blog is multilingual page.
 
 It is my pleasure to contact me, you can give me your website or some advice about my website. Let's build a wonderful Jekyll theme together!
 
-## <a name="ad"></a>Ad
-
-[Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
-
 ##  <a name="getting-started"></a>Getting Started
 
 If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by Smashing Magazine.
@@ -71,18 +64,18 @@ description: "Jack's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 
 baseurl: "/"
-url: "http://www.jack003.com"
+url: "https://topsale.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  avatar: 'static/img/landing/Jack.jpg'
+  name: 'Lusifer'
+  first_name: 'Li'
+  last_name: 'WeiMin'
+  email: 'topsale@vip.qq.com'
+  facebook_username: 'topsale'
+  github_username: 'topsale'
+  avatar: 'static/img/landing/Lusifer.jpg'
 ...
 ```
 
