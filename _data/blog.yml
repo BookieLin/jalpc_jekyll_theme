@@ -1,24 +1,21 @@
 # blog page sections
 - name: Blog
   href: '/blog/'
+  
+- name: Lusifer
+  href: '/lusifer/'
 
-- name: Python
-  href: '/python/'
+- name: Java
+  href: '/java/'
+  
+- name: Ubuntu
+  href: '/ubuntu/'
+  
+- name: Docker
+  href: '/docker/'
 
-- name: Linux
-  href: '/linux/'
+- name: Android
+  href: '/android/'
 
 - name: HTML
   href: '/html/'
-
-- name: Database
-  href: '/database/'
-
-- name: Mac
-  href: '/mac/'
-
-- name: Life
-  href: '/life/'
-
-- name: Donate
-  href: '/donate/'
